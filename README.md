@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text “ExplicitIntent”.
-Developed by: PRAVEENA N
-Registeration Number : 212222040122
+Developed by: DEEKSHA P
+Registeration Number : 212222040031
 ```
 
 ## MainActivity.java:
@@ -257,8 +257,11 @@ public class MainActivity2 extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
-![output1mobile](https://github.com/user-attachments/assets/dabc9674-9584-412d-80fe-043ba9343390)
-![output2mobile](https://github.com/user-attachments/assets/dd8f2b73-0355-42e4-8924-5796b440c045)
+
+![mobwork2-fotor-2024102614302](https://github.com/user-attachments/assets/58d4046c-1590-49c5-a747-e163e94225cf)
+
+
+![monwork1-fotor-20241026142834](https://github.com/user-attachments/assets/7bd7a4bd-d911-49b5-bb83-9db0814cede1)
 
 
 ## RESULT:
